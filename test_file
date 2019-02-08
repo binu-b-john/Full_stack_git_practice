@@ -6,3 +6,8 @@ I will modify this file from another branch soon....
 Adding few more lines from the branch: branch_1
 
 now i will try to push this branch to remote
+
+
+if you type:
+
+git push origin master it will push the changes directly to master 
